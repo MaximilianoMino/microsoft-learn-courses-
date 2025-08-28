@@ -1,0 +1,22 @@
+# IDE
+.cursor/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_StoreS
+Thumbs.db
+
+# Credentials
+*.env
+secrets/
+config.json
+
+# Build
+bin/
+obj/
+*.exe
