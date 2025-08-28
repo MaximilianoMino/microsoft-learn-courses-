@@ -1,0 +1,3 @@
+[submodule "courses/react-minimal-api-spa"]
+	path = courses/react-minimal-api-spa
+	url = https://github.com/MicrosoftDocs/minimal-api-work-with-databases.git
